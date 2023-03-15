@@ -48,7 +48,4 @@ The content will be updated continuously.
   </tr>
 </table>
 
-<video width="640" height="360" controls>
-  <source src="[video.mp4](https://user-images.githubusercontent.com/50198431/225224605-88f069b1-6e7c-4d9b-b87f-241eb3e12075.mov)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/50198431/225224605-88f069b1-6e7c-4d9b-b87f-241eb3e12075.mov
