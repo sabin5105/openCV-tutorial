@@ -32,8 +32,9 @@ The content will be updated continuously.
   - Gaussian blur
   - median blur
   - bilateral filter
-- Feature detection
-  - coming soon!🙏🏻 
+- Feature extraction
+  - PCA
+  - Harris corner detection #TODO
 - Objective detection
   - coming soon!🙏🏻
 
